@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer, and Avid Learner!!
 
-- 🔭 I am currently working as a freelance Django/React developer 
+- 🔭 I'm currently working as a freelance Django/React developer 
 - 🏃 I’m preparing to pursue MS/PhD in Computer Science
 - 🥅 2023 Goals: Contribution to research works (AI/ML/DL/NLP/CV)
 - ⚡ Fun fact: I dream bugs (sometimes) 🙄
