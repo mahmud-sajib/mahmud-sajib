@@ -18,5 +18,7 @@
 [instagram]: https://www.instagram.com/mahmud_sajib07/
 
 <br/>
+<br/>
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmud-sajib)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmud-sajib)](https://github.com/mahmud-sajib/github-readme-stats)
