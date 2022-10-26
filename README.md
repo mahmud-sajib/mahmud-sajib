@@ -13,8 +13,8 @@
 [<img align="left" alt="mahmud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mahmud | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="mahmud | Instagram" width="22px" src="https://github-readme-stats.vercel.app/api?username=mahmud-sajib&hide=contribs&show_icons=true"/>]
-
 [linkedin]: https://www.linkedin.com/in/mahmud-sajib-756a98185/
 [twitter]: https://twitter.com/MahmudSajib18
 [instagram]: https://www.instagram.com/mahmud_sajib07/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
