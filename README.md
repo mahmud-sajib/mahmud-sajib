@@ -13,7 +13,7 @@
 [<img align="left" alt="mahmud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mahmud | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://www.linkedin.com/in/mahmud-sajib-756a98185/
+[linkedin]: https://www.linkedin.com/in/mahmudul-sajib/
 [twitter]: https://twitter.com/MahmudSajib18
 [instagram]: https://www.instagram.com/mahmud_sajib07/
 
@@ -21,4 +21,4 @@
 <br/>
 <br/>
 
-[![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmud-sajib)](https://github.com/mahmud-sajib/github-readme-stats)
+[![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmud-sajib&hide=contribs)](https://github.com/mahmud-sajib/github-readme-stats)
