@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahmudul sajib  👋
 
-## I'm a Software Developer, and Avid Learner!!
+## I'm a Software Developer, and Research Enthusiast!!
 
 - 🔭 I'm currently working as a freelance Django/React developer 
 - 🏃 I’m preparing to pursue MS/PhD in Computer Science
