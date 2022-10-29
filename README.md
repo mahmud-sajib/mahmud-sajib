@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working as a freelance Django/React developer 
 - 🏃 I’m preparing to pursue MS/PhD in Computer Science
-- 🥅 2023 Goals: Contribution to research works (AI/ML/DL/NLP/CV)
+- 🥅 2023 Goals: Contribution to research works (AI/ML/DL/NLP/CV/HCI)
 - ⚡ Fun fact: I dream bugs (sometimes) 🙄
 
 ### Connect with me:
