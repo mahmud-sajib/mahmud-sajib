@@ -3,7 +3,7 @@
 ## I'm a Software Developer, and Research Enthusiast.
 
 - 🔭 I'm currently working as a freelance Django/React developer 
-- 🏃 I’m trying to be good enough developer
+- 🏃 I’m trying to level up my skills
 - 🥅 2023 Goals: Learning Frontend(JS/React/Redux) in depth
 - ⚡ Fun fact: I dream bugs (sometimes) 🙄
 
