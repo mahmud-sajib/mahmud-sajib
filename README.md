@@ -3,8 +3,8 @@
 ## I'm a Software Developer, and Research Enthusiast.
 
 - 🔭 I'm currently working as a freelance Django/React developer 
-- 🏃 I’m preparing to pursue MS/PhD in Computer Science
-- 🥅 2023 Goals: Contribution to research works (AI/ML/DL/NLP/CV/HCI)
+- 🏃 I’m trying to be good enough developer
+- 🥅 2023 Goals: Learning Frontend(JS/React/Redux) in depth
 - ⚡ Fun fact: I dream bugs (sometimes) 🙄
 
 ### Connect with me:
