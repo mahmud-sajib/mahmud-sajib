@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer, and Research Enthusiast.
 
-- 🔭 I'm currently working as a Spring/Django/React developer 
+- 🔭 I'm currently working as a Django/React developer 
 - 🏃 I’m trying to level up my skills
 - 🥅 2023 Goals: Learning Backend(Java/Spring) in depth
 - ⚡ Fun fact: I dream bugs (sometimes) 🙄
