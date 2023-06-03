@@ -4,9 +4,8 @@
 
 - 🔭 I'm currently working as a Django/React developer 
 - 🏃 I’m trying to level up my skills
-- 🥅 2023 Goals: Learning Backend(Java/Spring) in depth
+- 🥅 2023 Goals: Learning Front-end techs(JS/React/Redux) in depth
 - ⚡ Fun fact: I dream bugs (sometimes) 🙄
-
 
 <br/>
 <br/>
