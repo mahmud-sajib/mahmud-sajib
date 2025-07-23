@@ -11,4 +11,6 @@
 <br/>
 <br/>
 
+<!---
 [![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmud-sajib&hide=contribs)](https://github.com/mahmud-sajib/github-readme-stats)
+-->
