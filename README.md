@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently pursuing a PhD with a focus on Generative AI
 - 🏃 I worked as a Full-Stack Software Engineer for 5 years in Python and JavaScript Stack
-- 🥅 2026 Goals: Enhancing my knowledge in Large Language Models (LLMs), Machine Learning (ML), and Natural Language Processing (NLP)
+- 🥅 2026 Goals: Enhancing my knowledge in Large Language Models LLMs), Machine Learning (ML), and Natural Language Processing (NLP)
 - ⚡ Fun fact: I dream bugs (sometimes) 🙄
 
 <br/>
