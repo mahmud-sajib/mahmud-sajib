@@ -1,10 +1,10 @@
 ### Hi there, I'm Mahmudul sajib  👋
 
-## I'm a Software Developer, and Research Enthusiast.
+## I'm a GenAI Researcher and Software Engineer
 
-- 🔭 I'm currently working as a Django/React developer 
-- 🏃 I’m trying to level up my skills
-- 🥅 2023 Goals: Learning Machine Learning in depth
+- 🔭 I'm currently pursuing a PhD with a focus on Generative AI
+- 🏃 I worked as a Full-Stack Software Engineer for 5 years in Python & JavaScript Stack
+- 🥅 2026 Goals: Enhancing my knowledge in Large Language Models (LLMs), Machine Learning (ML), and Natural Language Processing (NLP)
 - ⚡ Fun fact: I dream bugs (sometimes) 🙄
 
 <br/>
